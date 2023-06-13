@@ -1,2 +1,4 @@
-key:
-  "value"
+key1:
+  "different value"
+key2:
+  "some value"
